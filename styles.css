@@ -268,7 +268,11 @@ a.firstLink:visited {
   ul li {
     display: inline-block;
     style: none;
-    margin-right: 10px;
+    margin-right: 5px;
+  }
+
+  .logo{
+    width: 140px;
   }
 
   .mail {
